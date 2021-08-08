@@ -47,7 +47,7 @@ int mod(int a, int b)
 {
 	while (a != 0 && b != 0)
 	{
-if(a>b) v
+if(a>b) 
 	}
 }
 
